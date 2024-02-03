@@ -1,2 +1,2 @@
 # PYGAME
-Basic game model on python programming language
+basic.....very basic.....pygame based spaceship game
